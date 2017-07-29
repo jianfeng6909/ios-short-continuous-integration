@@ -196,17 +196,19 @@
 				TargetAttributes = {
 					835AEC8A1D80DD7F0046555C = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 65LXM77DMH;
 						LastSwiftMigration = 0810;
+						ProvisioningStyle = Automatic;
 					};
 					A955D29E1DEDDD3700018872 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = AT7S4C746C;
+						DevelopmentTeam = 65LXM77DMH;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 835AEC8A1D80DD7F0046555C;
 					};
 					A955D2AC1DEDDE6100018872 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = AT7S4C746C;
+						DevelopmentTeam = 65LXM77DMH;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 835AEC8A1D80DD7F0046555C;
 					};
@@ -417,16 +419,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 65LXM77DMH;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = RomanNumeralCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.buddybuild.udacity.RomanNumeralCalculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gk.example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_VERSION = 3.0;
 			};
@@ -438,16 +441,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 65LXM77DMH;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = RomanNumeralCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.buddybuild.udacity.RomanNumeralCalculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gk.example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_VERSION = 3.0;
 			};
@@ -459,7 +463,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
-				DEVELOPMENT_TEAM = AT7S4C746C;
+				DEVELOPMENT_TEAM = 65LXM77DMH;
 				INFOPLIST_FILE = RomanNumeralCalculatorTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -477,7 +481,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
-				DEVELOPMENT_TEAM = AT7S4C746C;
+				DEVELOPMENT_TEAM = 65LXM77DMH;
 				INFOPLIST_FILE = RomanNumeralCalculatorTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -493,7 +497,7 @@
 			buildSettings = {
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
-				DEVELOPMENT_TEAM = AT7S4C746C;
+				DEVELOPMENT_TEAM = 65LXM77DMH;
 				INFOPLIST_FILE = RomanNumeralCalculatorUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -510,7 +514,7 @@
 			buildSettings = {
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
-				DEVELOPMENT_TEAM = AT7S4C746C;
+				DEVELOPMENT_TEAM = 65LXM77DMH;
 				INFOPLIST_FILE = RomanNumeralCalculatorUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
